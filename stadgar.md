@@ -77,8 +77,8 @@ eller minst tio medlemmar.
 
 Kallelse, med motioner, till föreningens möten distribueras till
 samtliga medlemmar minst fjorton dagar i förväg.
-Distribution kan ske på elektronisk väg till de medlemmar som så
-medgivit.
+Distribution sker normalt med epost.
+Styrelsen kan besluta om alternativ distribution efter ansökan från medlem.
 
 ### 12. Röstning
 
