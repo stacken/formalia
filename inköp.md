@@ -1,0 +1,7 @@
+- Kaffebryggare, http://www.elgiganten.se/product/hem-och-hushall/kaffebryggare/KB741T/moccamaster-kaffebryggare-kb-741-thermo föreslås
+- Ny timer till kaffebryggare
+- tv/projektor
+- hylla för arkiv i datorhallen
+- pärm för arkiv
+- kassaskrin för stackomaten
+- rollup
