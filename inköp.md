@@ -3,4 +3,3 @@
 - Hylla för arkiv i datorhallen
 - Pärmar för arkiv
 - Kassaskrin för stackomaten
-- En rollup som man kan ha på kårens dag
