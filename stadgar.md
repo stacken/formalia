@@ -44,16 +44,17 @@ tillfalla ändamål som överenstämmer med föreningens.
 Beslut härom fattas på det sista mötet.
 
 ## Medlemmar
-### 6. Inträde
+### 6. Medlemskap
 
 Medlemskap kan beviljas fysisk person som erlagt fastställd
 medlemsavgift.
 Till hedersmedlem kan föreningsmöte utse person som förtjänstfullt
 främjat föreningen eller dess syften.
+En medlem kan avsäga sig sin rösträtt genom att bli stödmedlem.
 
 ### 7. Rösträtt
 
-Varje medlem har rösträtt med en röst vid föreningens möten.
+Varje medlem, förutom stödmedlem, har rösträtt med en röst vid föreningens möten.
 Rösträtt kan ej överlåtas.
 
 ### 8. Uteslutning
