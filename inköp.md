@@ -1,4 +1,3 @@
-- TV eller projektor, helst i 4K (budget?)
 - Hylla för arkiv i datorhallen
 - Pärmar för arkiv
 - Kassaskrin för stackomaten
